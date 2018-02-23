@@ -616,6 +616,188 @@ a {
   margin: 26px;
   float: left;
   margin-left: 15px;
-
 }
-#BAFF5F verde
+.imagen5 article:first-child data{
+  width: 100px;
+  height: 220px;
+  background-color: #CACFD2;
+  margin: 20px;
+  float: left;
+  margin-left: 15px;
+}
+.imagen5 article:first-child data nav{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #FBFCFC;
+  margin: 20px;
+  float: left;
+  margin-left: 15px;
+}
+.imagen5 article:first-child header{
+  width: 220px;
+  height: 145px;
+  background-color: #CACFD2;
+  margin: 20px;
+  float: left;
+}
+.imagen5 article:first-child header figure{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #FBFCFC;
+  margin: 20px;
+  margin-left: 20px;
+  float: left;
+  margin-top: 17%;
+}
+.imagen5 article:first-child div{
+  width: 75px;
+  height: 220px;
+  background-color: #CACFD2;
+  margin: 26px;
+  float: left;
+}
+.imagen5 article:first-child div footer{
+  width: 50px;
+  height: 190px;
+  border-radius: 50%;
+  background-color: #FBFCFC;
+  margin: 14px;
+  float: left;
+}
+.imagen5 article:first-child div rp{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #FBFCFC;
+  margin: 28px;
+  margin-left: 15px;
+  float: left;
+}
+.imagen5 article:first-child element{
+  width: 220px;
+  height: 280px;
+  background-color: #CACFD2;
+  margin: 20px;
+  float: left;
+}
+.imagen5 article:first-child element figure{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #FBFCFC;
+  margin: 8px;
+  margin-left: 25px;
+  float: left;
+  margin-top: 15%;
+}
+.imagen5 article:first-child element section{
+  width: 60px;
+  height: 40px;
+  background-color: #FBFCFC;
+  margin: 20px;
+  margin-left: 80px;
+  float: left;
+  margin-top: 5%;
+}
+.imagen5 article:first-child element aside{
+  width: 160px;
+  height: 60px;
+  background-color: #FBFCFC;
+  margin: 20px;
+  margin-left: 30px;
+  float: left;
+  margin-top: 3%;
+}
+.imagen5 article:nth-child(2) element{
+  width: 220px;
+  height: 280px;
+  background-color: #CACFD2;
+  margin: 20px;
+  float: left;
+}
+.imagen5 article:nth-child(2) element figure{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #FBFCFC;
+  margin: 8px;
+  margin-left: 25px;
+  float: left;
+  margin-top: 15%;
+}
+.imagen5 article:nth-child(2) element section{
+  width: 60px;
+  height: 40px;
+  background-color: #FBFCFC;
+  margin: 20px;
+  margin-left: 80px;
+  float: left;
+  margin-top: 5%;
+}
+.imagen5 article:nth-child(2) element aside{
+  width: 160px;
+  height: 60px;
+  background-color: #FBFCFC;
+  margin: 20px;
+  margin-left: 30px;
+  float: left;
+  margin-top: 3%;
+}
+.imagen5 article:nth-child(2) data{
+  width: 100px;
+  height: 220px;
+  background-color: #CACFD2;
+  float: left;
+  margin: 5%;
+  margin-left: 15px;
+  margin-top: 10%;
+}
+.imagen5 article:nth-child(2) data nav{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #FBFCFC;
+  margin: 20px;
+  float: left;
+  margin-left: 15px;
+}
+.imagen5 article:nth-child(2) header{
+  width: 225px;
+  height: 145px;
+  background-color: #CACFD2;
+  margin: 20px;
+  margin-top: 15%;
+  float: left;
+}
+.imagen5 article:nth-child(2) header figure{
+   width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #FBFCFC;
+  margin: 20px;
+  margin-left: 20px;
+  float: left;
+  margin-top: 17%;
+}
+.imagen5 article:nth-child(2) div{
+  width: 65px;
+  height: 65px;
+  background-color: #CACFD2;
+  margin: 20px;
+  margin-left: 20px;
+  margin-top: 55%;
+  float: left;
+}
+.imagen5 article:nth-child(2) div rt {
+  width: 25px;
+  height: 25px;
+  background-color: #CACFD2;
+  margin: 20px;
+  margin-top: 15%;
+}
+/*#BAFF5F verde
+#CACFD2 gris
+#FBFCFC blanco
+#82E0AA verde claro*/
